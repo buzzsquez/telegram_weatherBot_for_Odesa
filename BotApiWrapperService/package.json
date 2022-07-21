@@ -1,0 +1,16 @@
+{
+  "name": "botapiwrapperservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node apiService.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "node-static": "0.7.11",
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
